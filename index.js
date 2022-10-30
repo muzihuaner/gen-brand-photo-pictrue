@@ -125,7 +125,7 @@ function App() {
 
   return (
     <>
-      <Typography.Title level={1}>生成小米 12S 莱卡水印照片</Typography.Title>
+      <Typography.Title level={1}>徕卡水印生成器</Typography.Title>
       <div class="preview-box">
         <Typography.Title level={4}>预览</Typography.Title>
         <div class="preview" id="preview">
